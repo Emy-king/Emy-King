@@ -1,4 +1,4 @@
-# Olá! Eu sou Eduardo, prazer em te conhecer😊
+## Olá! Eu sou Eduardo, prazer em te conhecer😊
 
 - 🖥️ Estou atualmente desempregado
 - 📖 Estudo atalmente ADS (Análise e Desenvlvimento de Sistemas)
@@ -10,12 +10,12 @@
 - 🚭 Não fumo e não bebo bebidas alcoolicas
 - 👾 Pretendo atuar na area de front-end e mais para o futuro me tonar fullstack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Emy-king GitHub stats](https://github-readme-stats.vercel.app/api?username=emy-king&show_icons=true&theme=gruvbox)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
