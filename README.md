@@ -1,12 +1,11 @@
 ## Olá! Eu sou Eduardo, prazer em te conhecer😊
 
 - 🖥️ Estou atualmente desempregado
-- 📖 Estudo atalmente ADS (Análise e Desenvlvimento de Sistemas)
-- 🏛️ Esudando na Anhanguera 
-- 🏡 Moro em Santa Bárbara D'Oeste 
-- 🏕️ Faço JAVASCRIPT, CSS, HTML pela alura
-- ♨️ Gosto de cafe, ir ao cinema, sair pra comer, jogar e pintar miniauras 
-- ❤️ Namoro uma menina linda, com quem pretendo me casar logo
+- 📖 Estudo atalmente JD (Jogo Digitais)
+- 🏛️ Esudando na Fatec Americana
+- 🏡 Moro em Santa Bárbara D'Oeste
+- ♨️ Gosto de cafe, ir ao cinema, sair pra comer, jogar e pintar miniauras rpg
+- ❤️ estou noivo de uma morena linda, com quem pretendo me casar logo
 - 🚭 Não fumo e não bebo bebidas alcoolicas
 - 👾 Pretendo atuar na area de front-end e mais para o futuro me tonar fullstack
 
