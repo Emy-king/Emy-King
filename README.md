@@ -1,6 +1,5 @@
 ## Olá! Eu sou Eduardo, prazer em te conhecer😊
 
-- 🖥️ Estou atualmente desempregado
 - 📖 Estudo atalmente JD (Jogo Digitais)
 - 🏛️ Esudando na Fatec Americana
 - 🏡 Moro em Santa Bárbara D'Oeste
